@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Uploaded files (optional, if you store uploads locally)
+uploads/
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
